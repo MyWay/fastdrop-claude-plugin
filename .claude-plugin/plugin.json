@@ -6,5 +6,6 @@
 	"author": { "name": "FastDrop", "url": "https://fastdrop.dev" },
 	"homepage": "https://fastdrop.dev/developers",
 	"license": "MIT",
+	"privacyPolicyUrl": "https://fastdrop.dev/privacy",
 	"keywords": ["mcp", "launch", "discovery", "makers", "directory"]
 }
