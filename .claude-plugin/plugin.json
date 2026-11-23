@@ -1,0 +1,10 @@
+{
+	"name": "fastdrop",
+	"displayName": "FastDrop",
+	"version": "1.3.0",
+	"description": "Find MCP servers that actually work, by the tools FastDrop got back when it called them, and launch your own product to the AI agents that search FastDrop.",
+	"author": { "name": "FastDrop", "url": "https://fastdrop.dev" },
+	"homepage": "https://fastdrop.dev/developers",
+	"license": "MIT",
+	"keywords": ["mcp", "launch", "discovery", "makers", "directory"]
+}

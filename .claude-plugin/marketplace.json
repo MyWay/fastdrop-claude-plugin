@@ -1,0 +1,15 @@
+{
+	"name": "fastdrop",
+	"owner": {
+		"name": "FastDrop",
+		"url": "https://fastdrop.dev"
+	},
+	"description": "The FastDrop plugin for Claude: MCP tool discovery and product launches.",
+	"plugins": [
+		{
+			"name": "fastdrop",
+			"source": "./",
+			"description": "Find MCP servers that actually work, and launch your own product to the AI agents that search FastDrop."
+		}
+	]
+}
